@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Scripts.Utils.Objects
+namespace UnityUtility
 {
     public static class GetOrAddExtension
     {

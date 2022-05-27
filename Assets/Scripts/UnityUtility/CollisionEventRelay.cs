@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace Scripts.Utils.Collision
+namespace UnityUtility
 {
     /// <summary>
     /// Relay collision events to another object or function.

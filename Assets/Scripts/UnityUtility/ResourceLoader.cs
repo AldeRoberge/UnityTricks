@@ -2,7 +2,7 @@
 using UnityEngine;
 using Object = UnityEngine.Object;
 
-namespace Scripts.Utils.Resource
+namespace UnityUtility
 {
     /// <summary>
     /// A fail safe way to load resources.

@@ -1,11 +1,11 @@
 ﻿using UnityEngine;
 
-namespace Scripts.Utils.UI.ConstantScaling
+namespace UnityUtility
 {
     /// <summary>
     /// Scales the object so it always looks the same size from any distance away from the camera.
     /// </summary>
-    public class ConstantScaling : MonoBehaviour
+    public class ConstantObjectSize : MonoBehaviour
     {
         private Camera activeCam;
         public float targetSize = 20;

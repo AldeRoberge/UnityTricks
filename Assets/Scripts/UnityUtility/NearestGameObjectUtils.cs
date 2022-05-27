@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-namespace Scripts.Utils.Collision
+namespace UnityUtility
 {
     /// <summary>
     /// Utility class to help find the nearest object of a given type.
